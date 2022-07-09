@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/smart_home-web/static/css/main.5402c7fb.css",
+    "main.js": "/smart_home-web/static/js/main.8291ce13.js",
+    "static/media/blog01.png": "/smart_home-web/static/media/blog01.b8c594107c0678715afa.png",
+    "static/media/solutions.jpg": "/smart_home-web/static/media/solutions.18b079ffc60a4330eed0.jpg",
+    "static/media/blog03.png": "/smart_home-web/static/media/blog03.09c400fc78c96e4ff788.png",
+    "static/media/blog04.png": "/smart_home-web/static/media/blog04.2f7565c893499d0f39f0.png",
+    "static/media/head.png": "/smart_home-web/static/media/head.05fcafd5d965accc21ad.png",
+    "static/media/blog05.png": "/smart_home-web/static/media/blog05.e2cd2c3bcda87df5181f.png",
+    "static/media/blog02.png": "/smart_home-web/static/media/blog02.4575fb47b66fd76940b0.png",
+    "static/media/google.png": "/smart_home-web/static/media/google.82317b837f791a423f01.png",
+    "static/media/amazon.png": "/smart_home-web/static/media/amazon.e8a0520be47e38ae70ca.png",
+    "static/media/xiaomi.png": "/smart_home-web/static/media/xiaomi.3d790a81b1f5e0aedcc3.png",
+    "static/media/philips.png": "/smart_home-web/static/media/philips.9267a3af2f1707a43e22.png",
+    "static/media/people.png": "/smart_home-web/static/media/people.138b91babf830f926a55.png",
+    "index.html": "/smart_home-web/index.html",
+    "main.5402c7fb.css.map": "/smart_home-web/static/css/main.5402c7fb.css.map",
+    "main.8291ce13.js.map": "/smart_home-web/static/js/main.8291ce13.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5402c7fb.css",
+    "static/js/main.8291ce13.js"
+  ]
+}
